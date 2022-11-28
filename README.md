@@ -32,9 +32,8 @@ I like people and I enjoy communicating with them. :heartbeat: <br/>
 <a href="https://www.instagram.com/your_bae.bae/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 <br/><br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoYeonBae&layout=compact&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoYeonBae&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdus2033)](https://solved.ac/tjdus2033/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=tjdus2033&theme=warm)&nbsp;
+|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdus2033)](https://solved.ac/tjdus2033/)|![mazandi profile](http://mazandi.herokuapp.com/api?handle=tjdus2033&theme=warm)|
+|-|-|
+|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoYeonBae&layout=compact&theme=radical)|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoYeonBae&show_icons=true&theme=radical)|
 
 </div>
