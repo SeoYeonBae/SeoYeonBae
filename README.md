@@ -30,7 +30,7 @@ I like people and I enjoy communicating with them. :heartbeat: <br/>
 <a href="https://www.notion.so/Developer-BaeBae-97fc2a5c0ae243cab4d47789ed3b7e3d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   
 <br/><br/>
-:hand: Contect me! :hand:<br/><br/>
+:hand: Contact me! :hand:<br/><br/>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:megd78988@gmail.com)](mailto:megd78988@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:tjdus2033@naver.com)](mailto:tjdus2033@naver.com)
 <a href="https://www.instagram.com/your_bae.bae/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
