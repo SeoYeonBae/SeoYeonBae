@@ -39,9 +39,7 @@ I like people and I enjoy communicating with them. :heartbeat: <br/>
 :trophy: BaekJoon rank :trophy:
 <br/><br/>
   
-|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdus2033)](https://solved.ac/tjdus2033/)|![mazandi profile](http://mazandi.herokuapp.com/api?handle=tjdus2033&theme=warm)|
-|-|-|
-
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdus2033)
 <br/><br/>
 :sparkles: Github Status :sparkles:
 <br/><br/>
