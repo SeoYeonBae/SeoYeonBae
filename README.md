@@ -25,19 +25,18 @@ I like people and I enjoy communicating with them. 💓 <br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 <br/><br/>  
-:newspaper: Tech Blog :newspaper:<br/><br/>
+📰 Tech Blog 📰<br/><br/>
 <a href="https://velog.io/@baebae" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-<a href="https://sand-ferry-013.notion.site/Smiley-Baebae-4703132e9037454e912621d854b57784" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   
 <br/><br/>
-:hand: Contact me! :hand:<br/><br/>
+✋ Contact me! ✋<br/><br/>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:megd78988@gmail.com)](mailto:megd78988@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:tjdus2033@naver.com)](mailto:tjdus2033@naver.com)
 <a href="https://www.instagram.com/your_bae.bae/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 <br/><br/>
 
-|:trophy: BaekJoon rank :trophy:|:sparkles: Top Languages :sparkles:|
+|🏆 BaekJoon rank 🏆|✨ Top Languages ✨|
 |-|-|
 |![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdus2033)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoYeonBae&layout=compact&theme=radical)|
 
