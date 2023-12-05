@@ -5,9 +5,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeoYeonBae&count_bg=%23FFC1E7&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-Hi! :smile: I'm BaeBae a junior backend developer. :seedling: <br/>
-I like people and I enjoy communicating with them. :heartbeat: <br/>
-:bulb: Learn through communication with me! :bulb:
+Hi! 😄 I'm BaeBae a junior developer. 🌱 <br/>
+I like people and I enjoy communicating with them. 💓 <br/>
+💡 Learn through communication with me! 💡
 
 <br/>
 :computer: Tech Stack :computer: <br/><br/>
